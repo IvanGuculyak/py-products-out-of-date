@@ -28,7 +28,7 @@ PRODUCT_LIST = [
     [
         (datetime.date(2022, 1, 1), []),
         (datetime.date(2022, 2, 1), []),
-        (datetime.date(2022, 2, 10), ["chicken", "duck"])
+        (datetime.date(2022, 2, 11), ["salmon", "chicken", "duck"])
     ]
 )
 def test_outdated_products(
